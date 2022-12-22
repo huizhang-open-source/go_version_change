@@ -1,9 +1,5 @@
 # GO版本切换
 
-➜ gv7
-
-zsh: command not found: gv7
-
 ➜ gv 7
 
 当前版本:
